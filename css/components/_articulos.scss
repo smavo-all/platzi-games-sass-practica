@@ -1,7 +1,7 @@
 .articulos {
 	width: 60%;
 	padding: 50px 0 0 50px;
-	//@include mode-background ($color-primario);
+	@include mode-background ($color-primario); //@include mode-background ($color-primario);
 }
 .articulo {
 	margin-bottom: 75px;

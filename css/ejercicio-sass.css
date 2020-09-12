@@ -36,6 +36,25 @@ main {
   padding-top: 50px;
   color: #FFFFFF;
   background-color: #8841DA;
+  background-color: #FFFFFF;
+  color: #333333;
+}
+
+.perfil .perfil__nombre, .perfil .perfil__minibio h2, .perfil__minibio .perfil h2 {
+  color: #8841DA;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+}
+
+.perfil .perfil__titulo, .perfil .perfil__minibio h3, .perfil__minibio .perfil h3 {
+  color: #3f579a;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+}
+
+.perfil .perfil__boton {
+  color: #FFFFFF;
+  background-color: #3f579a;
 }
 
 .perfil__avatar {
@@ -187,6 +206,25 @@ main {
 .articulos {
   width: 60%;
   padding: 50px 0 0 50px;
+  background-color: #333333;
+  color: #FFFFFF;
+}
+
+.articulos .perfil__nombre, .articulos .perfil__minibio h2, .perfil__minibio .articulos h2 {
+  color: #8841DA;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+}
+
+.articulos .perfil__titulo, .articulos .perfil__minibio h3, .perfil__minibio .articulos h3 {
+  color: #3f579a;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+}
+
+.articulos .perfil__boton {
+  color: #FFFFFF;
+  background-color: #3f579a;
 }
 
 .articulo {

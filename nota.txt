@@ -1,0 +1,7 @@
+# Instalar sass
+npm install -g sass
+
+# Compilar de sass a css
+sass --watch ejercicio-sass.scss ejercicio-sass.css
+
+
